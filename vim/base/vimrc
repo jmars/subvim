@@ -53,7 +53,7 @@ set switchbuf=usetab,newtab     " open new buffers always in new tabs
 "http://stackoverflow.com/questions/14802689/macvim-wont-load-specific-color-scheme-by-default
 let macvim_skip_colorscheme=1
 let g:molokai_original=1
-colorscheme molokai
+colorscheme flatland
 highlight SignColumn guibg=#272822   
 
 if has("gui_macvim")
