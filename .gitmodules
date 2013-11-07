@@ -1,0 +1,12 @@
+[submodule "vim/custom/fugitive.vim"]
+	path = vim/custom/fugitive.vim
+	url = https://github.com/tpope/vim-fugitive.git
+[submodule "vim/custom/vimproc.vim"]
+	path = vim/custom/vimproc.vim
+	url = https://github.com/Shougo/vimproc.vim.git
+[submodule "vim/custom/vimshell.vim"]
+	path = vim/custom/vimshell.vim
+	url = https://github.com/Shougo/vimshell.vim.git
+[submodule "vim/custom/neocomplete.vim"]
+	path = vim/custom/neocomplete.vim
+	url = https://github.com/Shougo/neocomplete.vim.git
