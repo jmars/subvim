@@ -10,3 +10,6 @@
 [submodule "vim/custom/neocomplete.vim"]
 	path = vim/custom/neocomplete.vim
 	url = https://github.com/Shougo/neocomplete.vim.git
+[submodule "vim/custom/emmet.vim"]
+	path = vim/custom/emmet.vim
+	url = https://github.com/mattn/emmet-vim.git
